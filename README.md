@@ -3,15 +3,18 @@
 ![][crash_pvp_svg]
 ![][xposed_module_svg]
 
-安装这个Xposed模块以后，一启动王者荣耀立马就会Crash(奔溃)，来提高玩游戏的难度。
+安装这个Xposed模块以后，一启动王者荣耀立马就会Crash(奔溃)，来避免玩该游戏。
 
 > 已经在[Xposed Module Repository](http://repo.xposed.info/module/cn.dreamtobe.xposed.crashpvp)中发布。
 
-#### 大概原理:
+## 大概原理:
 
-找到王者荣耀入口:
+#### 找到王者荣耀入口
+
 ![](https://github.com/Jacksgong/crash-pvp/raw/master/arts/manifest.png)
-找到Crash的Case:
+
+#### 找到Crash的Case
+
 ![](https://github.com/Jacksgong/crash-pvp/raw/master/arts/launch-activity.png)
 
 ## LICENSE
