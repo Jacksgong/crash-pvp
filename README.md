@@ -9,6 +9,10 @@
 
 #### 大概原理:
 
+找到王者荣耀入口:
+![](https://github.com/Jacksgong/crash-pvp/raw/master/arts/manifest.png)
+找到Crash的Case:
+![](https://github.com/Jacksgong/crash-pvp/raw/master/arts/launch-activity.png)
 
 ## LICENSE
 
