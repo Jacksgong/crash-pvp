@@ -3,7 +3,7 @@
 ![][crash_pvp_svg]
 ![][xposed_module_svg]
 
-安装这个Xposed模块以后，一启动王者荣耀立马就会Crash(奔溃)，来避免玩该游戏。
+安装这个Xposed模块以后，一启动王者荣耀立马就会Crash(奔溃)，来避免玩该游戏。你也可以通过安装[wechat hunter](https://github.com/Jacksgong/wechat-hunter)这个模块隐藏游戏中心在微信中的入口。
 
 > 已经在[Xposed Module Repository](http://repo.xposed.info/module/cn.dreamtobe.xposed.crashpvp)中发布。
 
