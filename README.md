@@ -17,6 +17,12 @@
 
 ![](https://github.com/Jacksgong/crash-pvp/raw/master/arts/launch-activity.png)
 
+#### 实现代码
+
+- [feat: implement the logic to crash king of glory game](https://github.com/Jacksgong/crash-pvp/commit/323c324d12bcaca27c64135e38f4659f3e6d7f3a)
+
+![](https://github.com/Jacksgong/crash-pvp/raw/master/arts/coding.png)
+
 ## LICENSE
 
 ```
